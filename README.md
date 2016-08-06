@@ -11,9 +11,11 @@ MongoDB+Express+Node.js+Passportのサイトへのログインのサンプル。
  
 ### 実行方法
 
-* $ npm install
-* $ mongod -dbpath ./db
-* $ npm start
+```shell
+npm install
+mongod -dbpath ./db
+npm start
+```
 
 ### Author
 
